@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Clone-for-nike-website-still_undergoing/static/css/main.e76cd7dd.css",
+    "main.js": "/Clone-for-nike-website-still_undergoing/static/js/main.95081fe7.js",
+    "static/js/787.be73f74f.chunk.js": "/Clone-for-nike-website-still_undergoing/static/js/787.be73f74f.chunk.js",
+    "index.html": "/Clone-for-nike-website-still_undergoing/index.html",
+    "main.e76cd7dd.css.map": "/Clone-for-nike-website-still_undergoing/static/css/main.e76cd7dd.css.map",
+    "main.95081fe7.js.map": "/Clone-for-nike-website-still_undergoing/static/js/main.95081fe7.js.map",
+    "787.be73f74f.chunk.js.map": "/Clone-for-nike-website-still_undergoing/static/js/787.be73f74f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e76cd7dd.css",
+    "static/js/main.95081fe7.js"
+  ]
+}
